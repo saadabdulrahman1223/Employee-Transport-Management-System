@@ -1,2 +1,2 @@
 # Employee-Transport-Management-System
-A Intermediate Python desktop application to manage employee transportation by assigning them to drivers with just one click and notifications for alerting employees and drivers.
+Developed an intermediate Python desktop application to solve real-world logistics challenges by efficiently managing employee transportation. The system allows one-click employee-to-driver assignment and provides automated notifications to employees and drivers, improving coordination, reliability, and operational efficiency.
